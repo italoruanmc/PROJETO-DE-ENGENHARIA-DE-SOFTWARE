@@ -14,7 +14,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
 ## MEMBROS DA EQUIPE E PAPÉIS
 
 1. **Fernando Lenys Silva Fernandes:** Full Stack
-2. **Italo Ruan Meneses da Costa:** Dev backend
+2. **Italo Ruan Meneses da Costa:** Dev Backend
 3. **José Uitelo Menezes Gomes:** Full Stack
 4. **Maria Kailane da Silva Castro:** Dev Backend
 5. **Tiago Yvens Germano Martins:** Dev Backend
