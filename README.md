@@ -47,6 +47,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
 ## BACKLOG DO SPRINT
 
 1. Como um usuário comum, eu gostaria de me cadastrar no sistema.
+
    RECURSOS:
    - Desenvolvimento da interface de registro: **Fernando Lenys Silva Fernandes**.
    - Backend para armazenamento de dados de usuário: **Italo Ruan Meneses da Costa**.
@@ -57,7 +58,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    O sistema armazena os dados fornecidos pelo usuário.
    Após o registro, o usuário pode fazer login com os dados fornecidos.
      
-2. Como um usuário comum, eu gostaria de adicionar uma nova tarefa.
+3. Como um usuário comum, eu gostaria de adicionar uma nova tarefa.
    RECURSOS:
    - Desenvolvimento da interface de adição de tarefa: **Fernando Lenys Silva Fernandes**.
    - Backend para adicionar tarefa ao banco de dados: **Maria Kailane da Silva Castro**.
@@ -68,7 +69,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    O sistema salva a nova tarefa no banco de dados.
    A nova tarefa é exibida corretamente na lista de tarefas do usuário.
 
-3. Como um usuário comum, eu gostaria de editar e deletar uma tarefa.
+4. Como um usuário comum, eu gostaria de editar e deletar uma tarefa.
    RECURSOS:
    - Desenvolvimento da interface de edição e exclusão de tarefa: **José Uitelo Menezes Gomes**.
    - Backend para editar e deletar tarefas: **Tiago Yvens Germano Martins**.
@@ -79,7 +80,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    O usuário pode excluir uma tarefa existente.
    As alterações feitas pelo usuário são exibidas corretamente na lista de tarefas.
 
-4. Como um usuário comum, eu gostaria de listar minhas tarefas.
+5. Como um usuário comum, eu gostaria de listar minhas tarefas.
    RECURSOS:
    - Desenvolvimento da interface de listagem de tarefas: **Fernando Lenys Silva Fernandes**.
    - Backend para listar tarefas do usuário: **Maria Kailane da Silva Castro**.
@@ -88,7 +89,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    O usuário pode acessar sua lista de tarefas.
    Todas as tarefas do usuário são exibidas corretamente na lista.
 
-5. Como um usuário comum, eu gostaria de definir uma data de vencimento para uma tarefa.
+6. Como um usuário comum, eu gostaria de definir uma data de vencimento para uma tarefa.
    RECURSOS:
    - Desenvolvimento da interface para definir data de vencimento: **José Uitelo Menezes Gomes**.
    - Backend para armazenar data de vencimento da tarefa: **Italo Ruan Meneses da Costa**.
