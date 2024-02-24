@@ -49,8 +49,9 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
 1. Como um usuário comum, eu gostaria de me cadastrar no sistema.
 
    RECURSOS:
-   - Desenvolvimento da interface de registro: **Fernando Lenys Silva Fernandes**.
-   - Backend para armazenamento de dados de usuário: **Italo Ruan Meneses da Costa**.
+   - Desenvolvimento da interface de registro: **Fernando Lenys Silva Fernandes** (3 dias úteis).
+   - Backend para armazenamento de dados de usuário: **Italo Ruan Meneses da Costa** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema. **Fernando Lenys Silva Fernandes** e **Italo Ruan Meneses da Costa** (5 dias úteis).
    
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar a página de registro.
@@ -58,11 +59,12 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    - O sistema armazena os dados fornecidos pelo usuário.
    - Após o registro, o usuário pode fazer login com os dados fornecidos.
      
-3. Como um usuário comum, eu gostaria de adicionar uma nova tarefa.
+2. Como um usuário comum, eu gostaria de adicionar uma nova tarefa.
 
    RECURSOS:
-   - Desenvolvimento da interface de adição de tarefa: **Fernando Lenys Silva Fernandes**.
-   - Backend para adicionar tarefa ao banco de dados: **Maria Kailane da Silva Castro**.
+   - Desenvolvimento da interface de adição de tarefa: **Fernando Lenys Silva Fernandes** (3 dias úteis).
+   - Backend para adicionar tarefa ao banco de dados: **Maria Kailane da Silva Castro** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema. **Fernando Lenys Silva Fernandes** e **Maria Kailane da Silva Castro** (4 dias úteis).
      
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar a página de adição de tarefas.
@@ -70,11 +72,12 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    - O sistema salva a nova tarefa no banco de dados.
    - A nova tarefa é exibida corretamente na lista de tarefas do usuário.
 
-5. Como um usuário comum, eu gostaria de editar e deletar uma tarefa.
+3. Como um usuário comum, eu gostaria de editar e deletar uma tarefa.
 
    RECURSOS:
-   - Desenvolvimento da interface de edição e exclusão de tarefa: **José Uitelo Menezes Gomes**.
-   - Backend para editar e deletar tarefas: **Tiago Yvens Germano Martins**.
+   - Desenvolvimento da interface de edição e exclusão de tarefa: **José Uitelo Menezes Gomes** (3 dias úteis).
+   - Backend para editar e deletar tarefas: **Tiago Yvens Germano Martins** (4 dias úteis).
+   - Implementação do banco de dados integrações do sistema. **José Uitelo Menezes Gomes** e **Tiago Yvens Germano Martins** (4 dias úteis).
      
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar as páginas de edição e remoção de tarefas.
@@ -82,22 +85,24 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    - O usuário pode excluir uma tarefa existente.
    - As alterações feitas pelo usuário são exibidas corretamente na lista de tarefas.
 
-7. Como um usuário comum, eu gostaria de listar minhas tarefas.
+4. Como um usuário comum, eu gostaria de listar minhas tarefas.
 
    RECURSOS:
-   - Desenvolvimento da interface de listagem de tarefas: **Fernando Lenys Silva Fernandes**.
-   - Backend para listar tarefas do usuário: **Maria Kailane da Silva Castro**.
+   - Desenvolvimento da interface de listagem de tarefas: **Fernando Lenys Silva Fernandes** (3 dias úteis).
+   - Backend para listar tarefas do usuário: **Maria Kailane da Silva Castro** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema. **Fernando Lenys Silva Fernandes** e **Maria Kailane da Silva Castro** (4 dias úteis).
    
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar sua lista de tarefas.
    - Todas as tarefas do usuário são exibidas corretamente na lista.
 
-9. Como um usuário comum, eu gostaria de definir uma data de vencimento para uma tarefa.
+5. Como um usuário comum, eu gostaria de definir uma data de vencimento para uma tarefa.
 
    RECURSOS:
-   - Desenvolvimento da interface para definir data de vencimento: **José Uitelo Menezes Gomes**.
-   - Backend para armazenar data de vencimento da tarefa: **Italo Ruan Meneses da Costa**.
+   - Desenvolvimento da interface para definir data de vencimento: **José Uitelo Menezes Gomes** (3 dias úteis).
+   - Backend para armazenar data de vencimento da tarefa: **Italo Ruan Meneses da Costa** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema. **José Uitelo Menezes Gomes** e **Italo Ruan Meneses da Costa** (4 dias úteis).
+   
    CRITÉRIOS DE ACEITAÇÃO:
-   - Durante a adição ou edição de uma tarefa, o usuário pode definir uma data de vencimento para a mesma.
+   - O usuário pode definir uma data de vencimento para a mesma.
    - A data de vencimento é exibida corretamente ao lado da tarefa na lista de tarefas do usuário.
-
