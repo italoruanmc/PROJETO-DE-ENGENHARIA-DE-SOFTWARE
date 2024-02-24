@@ -77,7 +77,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    RECURSOS:
    - Desenvolvimento da interface de edição e exclusão de tarefa: **José Uitelo Menezes Gomes** (3 dias úteis).
    - Backend para editar e deletar tarefas: **Tiago Yvens Germano Martins** (4 dias úteis).
-   - Implementação do banco de dados integrações do sistema. **José Uitelo Menezes Gomes** e **Tiago Yvens Germano Martins** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema. **José Uitelo Menezes Gomes** e **Tiago Yvens Germano Martins** (4 dias úteis).
      
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar as páginas de edição e remoção de tarefas.
