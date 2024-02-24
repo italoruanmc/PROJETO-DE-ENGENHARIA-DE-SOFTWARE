@@ -104,5 +104,5 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    - Implementação do banco de dados e integrações do sistema: **José Uitelo Menezes Gomes** e **Italo Ruan Meneses da Costa** (4 dias úteis).
    
    CRITÉRIOS DE ACEITAÇÃO:
-   - O usuário pode definir uma data de vencimento para a mesma.
+   - O usuário pode definir uma data de vencimento para a tarefa.
    - A data de vencimento é exibida corretamente ao lado da tarefa na lista de tarefas do usuário.
