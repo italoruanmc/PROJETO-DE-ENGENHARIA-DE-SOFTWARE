@@ -24,3 +24,71 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
 - **Trello**
 - **PHP**
 - **MySQL**
+
+## BACKLOG DO PRODUTO
+
+1. Como um usuário comum, eu gostaria de me cadastrar no sistema.
+2. Como um usuário comum, eu gostaria de fazer login na minha conta.
+3. Como um usuário comum, eu gostaria de adicionar uma nova tarefa.
+4. Como um usuário comum, eu gostaria de editar e deletar uma tarefa.
+5. Como um usuário comum, eu gostaria de listar minhas tarefas.
+6. Como um usuário comum, eu gostaria de definir uma data de vencimento para uma tarefa.
+7. Como um usuário comum, eu gostaria de receber notificações quando uma tarefa estiver próxima do prazo de vencimento.
+8. Como um usuário comum, eu gostaria de marcar uma tarefa como concluída.
+9. Como um usuário comum, eu gostaria de criar listas de tarefas separadas por categorias.
+10. Como um usuário comum, eu gostaria de definir prioridades para minhas tarefas.
+11. Como um líder de um time, eu gostaria de criar um grupo com membros dentro do sistema.
+12. Como um líder de um time, eu gostaria de atribuir tarefas aos membros do time.
+13. Como um líder de um time, eu gostaria de monitorar o progresso das tarefas atribuídas.
+14. Como um líder de um time, eu gostaria de enviar feedback sobre os trabalhos dos membros.
+15. Como um membro de um time, eu gostaria de receber notificações sobre novas tarefas atribuídas a mim.
+16. Como um membro de um time, eu gostaria de solicitar feedback sobre o meu trabalho.
+
+## BACKLOG DO SPRINT
+
+1. Como um usuário comum, eu gostaria de me cadastrar no sistema.
+   **RECURSOS:**
+   - Desenvolvimento da interface de registro: **Fernando Lenys Silva Fernandes**.
+   - Backend para armazenamento de dados de usuário: **Italo Ruan Meneses da Costa**.
+   **CRITÉRIOS DE ACEITAÇÃO:**
+   O usuário pode acessar a página de registro.
+   O usuário pode preencher um formulário de registro com nome de usuário, e-mail e senha.
+   O sistema armazena os dados fornecidos pelo usuário.
+   Após o registro, o usuário pode fazer login com os dados fornecidos.
+     
+2. Como um usuário comum, eu gostaria de adicionar uma nova tarefa.
+   **RECURSOS:**
+   - Desenvolvimento da interface de adição de tarefa: **Fernando Lenys Silva Fernandes**.
+   - Backend para adicionar tarefa ao banco de dados: **Maria Kailane da Silva Castro**.
+   **CRITÉRIOS DE ACEITAÇÃO:**
+   O usuário pode acessar a página de adição de tarefas.
+   O usuário pode preencher um formulário com título, descrição e outras informações relevantes para a tarefa.
+   O sistema salva a nova tarefa no banco de dados.
+   A nova tarefa é exibida corretamente na lista de tarefas do usuário.
+
+3. Como um usuário comum, eu gostaria de editar e deletar uma tarefa.
+   **RECURSOS:**
+   - Desenvolvimento da interface de edição e exclusão de tarefa: **José Uitelo Menezes Gomes**.
+   - Backend para editar e deletar tarefas: **Tiago Yvens Germano Martins**.
+   **CRITÉRIOS DE ACEITAÇÃO:**
+   O usuário pode acessar as páginas de edição e remoção de tarefas.
+   O usuário pode editar uma tarefa existente, alterando seu título, descrição ou data de vencimento.
+   O usuário pode excluir uma tarefa existente.
+   As alterações feitas pelo usuário são exibidas corretamente na lista de tarefas.
+
+4. Como um usuário comum, eu gostaria de listar minhas tarefas.
+   **RECURSOS:**
+   - Desenvolvimento da interface de listagem de tarefas: **Fernando Lenys Silva Fernandes**.
+   - Backend para listar tarefas do usuário: **Maria Kailane da Silva Castro**.
+   **CRITÉRIOS DE ACEITAÇÃO:**
+   O usuário pode acessar sua lista de tarefas.
+   Todas as tarefas do usuário são exibidas corretamente na lista.
+
+5. Como um usuário comum, eu gostaria de definir uma data de vencimento para uma tarefa.
+   **RECURSOS:**
+   - Desenvolvimento da interface para definir data de vencimento: **José Uitelo Menezes Gomes**.
+   - Backend para armazenar data de vencimento da tarefa: **Italo Ruan Meneses da Costa**.
+   **CRITÉRIOS DE ACEITAÇÃO:**
+   Durante a adição ou edição de uma tarefa, o usuário pode definir uma data de vencimento para a mesma.
+   A data de vencimento é exibida corretamente ao lado da tarefa na lista de tarefas do usuário.
+
