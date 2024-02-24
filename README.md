@@ -51,7 +51,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    RECURSOS:
    - Desenvolvimento da interface de registro: **Fernando Lenys Silva Fernandes** (3 dias úteis).
    - Backend para armazenamento de dados de usuário: **Italo Ruan Meneses da Costa** (4 dias úteis).
-   - Implementação do banco de dados e integrações do sistema. **Fernando Lenys Silva Fernandes** e **Italo Ruan Meneses da Costa** (5 dias úteis).
+   - Implementação do banco de dados e integrações do sistema: **Fernando Lenys Silva Fernandes** e **Italo Ruan Meneses da Costa** (5 dias úteis).
    
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar a página de registro.
@@ -64,7 +64,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    RECURSOS:
    - Desenvolvimento da interface de adição de tarefa: **Fernando Lenys Silva Fernandes** (3 dias úteis).
    - Backend para adicionar tarefa ao banco de dados: **Maria Kailane da Silva Castro** (4 dias úteis).
-   - Implementação do banco de dados e integrações do sistema. **Fernando Lenys Silva Fernandes** e **Maria Kailane da Silva Castro** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema: **Fernando Lenys Silva Fernandes** e **Maria Kailane da Silva Castro** (4 dias úteis).
      
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar a página de adição de tarefas.
@@ -77,7 +77,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    RECURSOS:
    - Desenvolvimento da interface de edição e exclusão de tarefa: **José Uitelo Menezes Gomes** (3 dias úteis).
    - Backend para editar e deletar tarefas: **Tiago Yvens Germano Martins** (4 dias úteis).
-   - Implementação do banco de dados e integrações do sistema. **José Uitelo Menezes Gomes** e **Tiago Yvens Germano Martins** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema: **José Uitelo Menezes Gomes** e **Tiago Yvens Germano Martins** (4 dias úteis).
      
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar as páginas de edição e remoção de tarefas.
@@ -90,7 +90,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    RECURSOS:
    - Desenvolvimento da interface de listagem de tarefas: **Fernando Lenys Silva Fernandes** (3 dias úteis).
    - Backend para listar tarefas do usuário: **Maria Kailane da Silva Castro** (4 dias úteis).
-   - Implementação do banco de dados e integrações do sistema. **Fernando Lenys Silva Fernandes** e **Maria Kailane da Silva Castro** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema: **Fernando Lenys Silva Fernandes** e **Maria Kailane da Silva Castro** (4 dias úteis).
    
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode acessar sua lista de tarefas.
@@ -101,7 +101,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    RECURSOS:
    - Desenvolvimento da interface para definir data de vencimento: **José Uitelo Menezes Gomes** (3 dias úteis).
    - Backend para armazenar data de vencimento da tarefa: **Italo Ruan Meneses da Costa** (4 dias úteis).
-   - Implementação do banco de dados e integrações do sistema. **José Uitelo Menezes Gomes** e **Italo Ruan Meneses da Costa** (4 dias úteis).
+   - Implementação do banco de dados e integrações do sistema: **José Uitelo Menezes Gomes** e **Italo Ruan Meneses da Costa** (4 dias úteis).
    
    CRITÉRIOS DE ACEITAÇÃO:
    - O usuário pode definir uma data de vencimento para a mesma.
