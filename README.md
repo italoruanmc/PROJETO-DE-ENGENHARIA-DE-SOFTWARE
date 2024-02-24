@@ -53,6 +53,7 @@ O objetivo do Sistema de Gerenciamento de Tarefas é fornecer uma plataforma par
    - Backend para armazenamento de dados de usuário: **Italo Ruan Meneses da Costa**.
    
    CRITÉRIOS DE ACEITAÇÃO:
+   
    O usuário pode acessar a página de registro.
    O usuário pode preencher um formulário de registro com nome de usuário, e-mail e senha.
    O sistema armazena os dados fornecidos pelo usuário.
